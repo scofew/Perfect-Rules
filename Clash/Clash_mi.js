@@ -359,7 +359,7 @@ function main(config) {
   // ================================================================
 
   var iconBaseURL =
-    "https://cdn.jsdelivr.net/gh/n0de-sudo/Perfect-Rules@main/Clash/icons/";
+    "https://cdn.jsdelivr.net/gh/scofew/Perfect-Rules@main/Clash/icons/";
 
 
   var groupIcons = {
@@ -1117,7 +1117,7 @@ function main(config) {
   // ================================================================
 
   var ruleBaseURL =
-    "https://cdn.jsdelivr.net/gh/n0de-sudo/Perfect-Rules@main/Clash/rules/";
+    "https://cdn.jsdelivr.net/gh/scofew/Perfect-Rules@main/Clash/rules/";
 
 
   // ================================================================
@@ -1150,7 +1150,7 @@ function main(config) {
   //
   // GitHub repository:
   //
-  // n0de-sudo/Perfect-Rules
+  // scofew/Perfect-Rules
   //
   // ================================================================
 
