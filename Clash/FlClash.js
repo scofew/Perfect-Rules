@@ -1,3 +1,10 @@
+  // 阿尔忒弥斯实验室 · FLClash-完美分流3.0
+  // 源码：https://github.com/n0de-sudo/Perfect-Rules/blob/main/Clash/FlClash.js
+  // 克隆同步：https://github.com/scofew/Perfect-Rules/blob/main/Clash/FlClash.js
+  // 应用链接：https://github.com/scofew/Perfect-Rules/raw/refs/heads/main/Clash/FlClash.js
+  // 或 通过以下加速：https://www.jsdelivr.com/github
+  // 应用链接：https://cdn.jsdelivr.net/gh/scofew/Perfect-Rules@refs/heads/main/Clash/FlClash.js
+
 const main = (config) => {
 
   // ================================================================
